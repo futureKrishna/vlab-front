@@ -1,0 +1,15 @@
+.welcome_message{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.dashboard_container{
+  height: 60vh;
+  width: 60vw;
+  margin-left: 20%;
+  margin-top: 5%;
+  background-color: rgb(147, 145, 145);
+  padding-left:10% ;
+  padding-top:7% ;
+}
+
